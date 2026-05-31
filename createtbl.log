@@ -1,0 +1,84 @@
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.FAN" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.VENUE" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.MANAGEMENT" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.ARTIST" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.TOUR_EVENT" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.CONCERT" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.FANSIGN" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.LISTING" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.LIKES" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.EMPLOYEE" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.TICKET" of type "TABLE".  SQLSTATE=42710
+
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL0601N  The name of the object to be created is identical to the existing 
+name "CS421G111.BUYS_TICKET" of type "TABLE".  SQLSTATE=42710
+
