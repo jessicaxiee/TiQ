@@ -2,7 +2,7 @@
 
 **Purpose**
 - **Summary**: 
-This program is an SQL-based ticketing platform with TUI for event management, validated on datasets of over 1000 records. Through this project, I designed and implemented complex relational structures to reflect real-world constraints. I also learned to apply indexing and advanced SQL queries to optimize performance and support business logic. Lastly, I incorporated role-based functionality for employees and customers, including ticket purchasing, event search and deletion, and triggers for ticket price modification auditing.
+This program is an SQL-based ticketing platform with TUI for event management, validated on datasets of over 1000 records. Through this project, we designed and implemented complex relational structures to reflect real-world constraints. We also learned to apply indexing and advanced SQL queries to optimize performance and support business logic. Lastly, it incorporates role-based functionality for employees and customers, including ticket purchasing, event search and deletion, and triggers for ticket price modification auditing.
 
 **What it evaluates**
 - **Database setup**: SQL scripts in the repo should create the schema and sample data without errors.
